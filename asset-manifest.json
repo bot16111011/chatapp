@@ -1,22 +1,24 @@
 {
   "files": {
     "main.css": "/chatapp/static/css/main.bc4ae41e.css",
-    "main.js": "/chatapp/static/js/main.97e1d740.js",
+    "main.js": "/chatapp/static/js/main.45339ccb.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/chatapp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/chatapp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/chatapp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/monica.jpg": "/chatapp/static/media/monica.3915face5a367a398ebc.jpg",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/chatapp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/chatapp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/buddha.jpg": "/chatapp/static/media/buddha.9caffb6dc2cd9a78e9bf.jpg",
+    "static/media/sam.jpg": "/chatapp/static/media/sam.fef7b357b4b7b54f14c3.jpg",
     "static/media/akhil.webp": "/chatapp/static/media/akhil.ebec4e65376e422c072f.webp",
     "static/media/charles.webp": "/chatapp/static/media/charles.afc036b2a0176fed2c80.webp",
     "index.html": "/chatapp/index.html",
     "static/media/profile.svg": "/chatapp/static/media/profile.85392dcefb888a8aab2a566ba08f57b0.svg",
     "main.bc4ae41e.css.map": "/chatapp/static/css/main.bc4ae41e.css.map",
-    "main.97e1d740.js.map": "/chatapp/static/js/main.97e1d740.js.map"
+    "main.45339ccb.js.map": "/chatapp/static/js/main.45339ccb.js.map"
   },
   "entrypoints": [
     "static/css/main.bc4ae41e.css",
-    "static/js/main.97e1d740.js"
+    "static/js/main.45339ccb.js"
   ]
 }
