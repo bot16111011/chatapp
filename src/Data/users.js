@@ -6,6 +6,8 @@ import trina from '../images/trina.png';
 import akhilesh from '../images/akhil.webp';
 import charles from '../images/charles.webp';
 import shilpa from '../images/monica.jpg';
+import gautam from '../images/buddha.jpg';
+import sam from '../images/sam.jpg';
 export const data = {
     profile: {
       id: 1,
@@ -128,9 +130,8 @@ export const data = {
         },
         {
           id: 5,
-          name: "Suraj",
-          image:
-            "https://st3.depositphotos.com/1743476/16188/i/600/depositphotos_161885550-stock-photo-proud-latin-man.jpg",
+          name: "Siddhartha",
+          image:gautam,
           chatlog: [],
         },
         {
@@ -221,9 +222,8 @@ export const data = {
         },
         {
           id: 9,
-          name: "Steve",
-          image:
-            "https://st2.depositphotos.com/1273995/8790/i/600/depositphotos_87904862-stock-photo-portrait-of-bearded-man.jpg",
+          name: "Sam",
+          image:sam,
           chatlog: [],
         },
       ],
